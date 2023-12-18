@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">Hey there! I am one of the co-founders of Spadework, a startup company focused on AI. We are currently in the exciting phase of preparing for our official compa</h3>
 
-- 🔭 I’m currently working on [my start-up Spadework!](spadework.nl)
+- 🔭 I’m currently working on [my start-up Spadework!](spadework.ai)
 
 - 💬 Am specialized in **Geometric deep-learning and love working on my entrepreneurial skills**
 
